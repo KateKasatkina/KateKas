@@ -1,0 +1,33 @@
+  div{
+    width: 200px;
+    height: 200px;
+    background: black;
+    display: block;
+    margin: 10px
+  }
+  .box {
+    background: red;
+  }
+  .rounded {
+    border-radius: 40px;
+  }
+  #box {
+    background:green;
+  }
+  .btn {
+    height:40px;
+    cursor: pointer;
+    transition: all 2s ease;
+  }
+  .btn:hover {
+  background:blue;
+  transition: all .2s ease;
+  }
+  .btn p{
+    text-align: center;
+    color: white;
+    padding: 10px;
+  }
+
+
+/* */
